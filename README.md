@@ -1,9 +1,9 @@
 # Breakout Board
 "quick and dirty breakout board I made for fun"
-![](ForGit/Breakout3D.png)
+![](Breakout3D.png)
 
 ## Layout
-![](ForGit/Layout.png)
+![](Layout.png)
 
 ## Schematic
 ![](Power_Supplies.png)
