@@ -1,5 +1,5 @@
 # Breakout Board
-"quick and dirty breakout board I made for fun"
+"quick and dirty breakout board"
 ![](Breakout3D.png)
 
 ## Layout
